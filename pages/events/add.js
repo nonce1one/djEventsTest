@@ -1,9 +1,9 @@
-import React from 'react';
+import Layout from '../../components/Layout';
 
 export default function AddEventPave() {
   return (
-    <div>
+    <Layout>
       <h1>Add Event</h1>
-    </div>
+    </Layout>
   );
 }
